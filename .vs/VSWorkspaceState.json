@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Play.Common",
+    "\\src\\Play.Common\\MongoDB"
+  ],
+  "SelectedNode": "\\src\\Play.Common\\MongoDB\\MongoRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
